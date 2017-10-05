@@ -1,0 +1,693 @@
+INFO  2017-05-09 15:58:19,115 [10   ] MariniImpiantiTester.Program             - ciao
+INFO  2017-05-09 16:11:50,552 [10   ] MariniImpiantiTester.Program             - ciao
+INFO  2017-05-09 16:11:59,123 [10   ] MariniImpianti.MariniImpianto            - Sono un impianto 
+INFO  2017-05-09 16:14:19,455 [9    ] MariniImpiantiTester.Program             - ciao
+INFO  2017-05-09 16:18:17,572 [10   ] MariniImpiantiTester.Program             - ciao
+INFO  2017-05-09 16:18:32,683 [10   ] MariniImpianti.MariniImpianto            - Sono un impianto 
+INFO  2017-05-09 16:20:34,889 [10   ] MariniImpiantiTester.Program             - ciao
+INFO  2017-05-09 16:20:49,000 [10   ] MariniImpianti.MariniImpianto            - Sono un impianto 
+INFO  2017-05-09 16:21:05,469 [10   ] MariniImpianti.MariniImpianto            - Sono un impianto 
+INFO  2017-05-09 16:23:51,541 [10   ] MariniImpiantiTester.Program             - ciao
+INFO  2017-05-09 16:23:51,611 [10   ] MariniImpianti.MariniImpiantoTree        - Creata l'Istanza di MariniImpiantoTree
+INFO  2017-05-09 16:24:56,068 [10   ] MariniImpiantiTester.Program             - ciao
+INFO  2017-05-09 16:24:56,118 [10   ] MariniImpianti.MariniImpiantoTree        - Creata l'Istanza di MariniImpiantoTree
+INFO  2017-05-09 16:35:21,483 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-09 16:35:21,493 [10   ] MariniImpiantiTester.Program             -           TEST STARTED
+INFO  2017-05-09 16:35:21,493 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-09 16:35:21,523 [10   ] MariniImpianti.MariniImpiantoTree        - Creata l'Istanza di MariniImpiantoTree
+INFO  2017-05-09 16:39:20,092 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-09 16:39:20,112 [10   ] MariniImpiantiTester.Program             -           TEST STARTED
+INFO  2017-05-09 16:39:20,112 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-09 16:39:20,224 [10   ] MariniImpianti.MariniImpiantoTree        - Creata l'Istanza di MariniImpiantoTree
+DEBUG 2017-05-09 16:39:20,224 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : name!!!!
+DEBUG 2017-05-09 16:39:20,224 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+DEBUG 2017-05-09 16:39:20,224 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+DEBUG 2017-05-09 16:39:20,224 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandlerCustom, il sender e' MOTORE_01 e la proprieta' e' : description!!!!
+DEBUG 2017-05-09 16:39:20,225 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandlerCustom, il sender e' MOTORE_01 e la proprieta' e' : description!!!!
+DEBUG 2017-05-09 16:42:57,053 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : name!!!!
+DEBUG 2017-05-09 16:43:23,634 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+INFO  2017-05-09 16:44:21,624 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-09 16:44:21,624 [10   ] MariniImpiantiTester.Program             -           TEST FINISHED
+INFO  2017-05-09 16:44:21,624 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-09 16:51:43,988 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-09 16:51:43,998 [10   ] MariniImpiantiTester.Program             -           TEST STARTED
+INFO  2017-05-09 16:51:43,998 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-09 16:51:44,040 [10   ] MariniImpianti.MariniImpiantoTree        - Creata l'Istanza di MariniImpiantoTree
+DEBUG 2017-05-09 16:51:44,041 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : name!!!!
+DEBUG 2017-05-09 16:51:44,043 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+DEBUG 2017-05-09 16:51:44,043 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+DEBUG 2017-05-09 16:51:44,043 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandlerCustom, il sender e' MOTORE_01 e la proprieta' e' : description!!!!
+DEBUG 2017-05-09 16:51:44,043 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandlerCustom, il sender e' MOTORE_01 e la proprieta' e' : description!!!!
+DEBUG 2017-05-09 17:11:30,275 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : name!!!!
+DEBUG 2017-05-09 17:11:30,518 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+INFO  2017-05-09 17:11:34,978 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-09 17:11:34,978 [10   ] MariniImpiantiTester.Program             -           TEST FINISHED
+INFO  2017-05-09 17:11:34,978 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-10 10:43:37,037 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-10 10:43:37,076 [10   ] MariniImpiantiTester.Program             -           TEST STARTED
+INFO  2017-05-10 10:43:37,076 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-10 10:43:37,355 [10   ] MariniImpianti.MariniImpiantoTree        - Creata l'Istanza di MariniImpiantoTree
+DEBUG 2017-05-10 10:43:37,356 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : name!!!!
+DEBUG 2017-05-10 10:43:37,357 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+DEBUG 2017-05-10 10:43:37,358 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+DEBUG 2017-05-10 10:43:37,358 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandlerCustom, il sender e' MOTORE_01 e la proprieta' e' : description!!!!
+DEBUG 2017-05-10 10:43:37,358 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandlerCustom, il sender e' MOTORE_01 e la proprieta' e' : description!!!!
+INFO  2017-05-10 17:19:11,258 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-10 17:19:11,539 [10   ] MariniImpiantiTester.Program             -           TEST STARTED
+INFO  2017-05-10 17:19:11,539 [10   ] MariniImpiantiTester.Program             - ***********************************
+DEBUG 2017-05-10 17:19:11,542 [10   ] MariniImpianti.MariniImpiantoTree        - ---> MariniImpiantoTree(string filename)
+DEBUG 2017-05-10 17:19:11,666 [10   ] MariniImpianti.MariniImpiantoTree        - Tento la creazione di MariniImpianto dal file XML: Q:\VARIE\ael\new-project\doc\analisi\impianto.xml
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - ZONA_PREDOSAGGIO - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PRED_01 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - BIL_02 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - AMP_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - CMD_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - ALRM_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_DI_RitMotore01 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_Ritorno_1 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_RitornoIndietro_1 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_ForzatoDarwin_1 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_AllarmeMotore_1 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_BloccoMotore_1 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_AccesoForzatoPLC_1 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_SpentoForzatoPLC_1 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_ZonaAsservimenti_AsservimentiDefault_1 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_CMD_SemiAuto_1 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_CMD_InvSemiAuto_1 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - NO_ID - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PRED_02 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - BIL_04 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_02 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - AMP_02 - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 - Nessun handler trovato
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - TAMBURO - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - FILTRO - Nessuna richiesta di handler
+DEBUG 2017-05-10 17:19:11,670 [10   ] MariniImpianti.MariniImpiantoTree        - <--- MariniImpiantoTree(string filename)
+INFO  2017-05-10 17:19:28,415 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-10 17:19:28,415 [10   ] MariniImpiantiTester.Program             -           TEST FINISHED
+INFO  2017-05-10 17:19:28,415 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-16 16:06:19,510 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-16 16:06:19,538 [10   ] MariniImpiantiTester.Program             -           TEST STARTED
+INFO  2017-05-16 16:06:19,539 [10   ] MariniImpiantiTester.Program             - ***********************************
+DEBUG 2017-05-16 16:06:19,543 [10   ] MariniImpianti.MariniImpiantoTree        - ---> MariniImpiantoTree(string filename)
+DEBUG 2017-05-16 16:06:19,548 [10   ] MariniImpianti.MariniImpiantoTree        - Tento la creazione di MariniImpianto dal file XML: Q:\VARIE\ael\new-project\doc\analisi\impianto.xml
+DEBUG 2017-05-16 16:06:19,551 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,551 [10   ] MariniImpianti.MariniImpiantoTree        - ZONA_PREDOSAGGIO - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,551 [10   ] MariniImpianti.MariniImpiantoTree        - PRED_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,551 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,551 [10   ] MariniImpianti.MariniImpiantoTree        - BIL_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - AMP_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - CMD_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - ALRM_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_DI_RitMotore01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_Ritorno_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_RitornoIndietro_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_ForzatoDarwin_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_AllarmeMotore_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_BloccoMotore_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_AccesoForzatoPLC_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_SpentoForzatoPLC_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_ZonaAsservimenti_AsservimentiDefault_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_CMD_SemiAuto_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_CMD_InvSemiAuto_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - NO_ID - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PRED_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - BIL_04 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - AMP_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 - Nessun handler trovato
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - TAMBURO - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - FILTRO - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - <--- MariniImpiantoTree(string filename)
+INFO  2017-05-16 16:06:19,552 [10   ] MariniImpianti.MariniImpiantoTree        - Recupero l'Istanza di MariniImpiantoTree
+INFO  2017-05-16 16:08:21,805 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-16 16:08:21,805 [10   ] MariniImpiantiTester.Program             -           TEST FINISHED
+INFO  2017-05-16 16:08:21,805 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-16 16:16:00,066 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-16 16:16:00,077 [10   ] MariniImpiantiTester.Program             -           TEST STARTED
+INFO  2017-05-16 16:16:00,077 [10   ] MariniImpiantiTester.Program             - ***********************************
+DEBUG 2017-05-16 16:16:00,081 [10   ] MariniImpianti.MariniImpiantoTree        - ---> MariniImpiantoTree(Q:\VARIE\ael\new-project\doc\analisi\impianto.xml)
+DEBUG 2017-05-16 16:16:00,089 [10   ] MariniImpianti.MariniImpiantoTree        - Tento la creazione di MariniImpianto dal file XML: Q:\VARIE\ael\new-project\doc\analisi\impianto.xml
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - ZONA_PREDOSAGGIO - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - PRED_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - BIL_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - AMP_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - CMD_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - ALRM_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_DI_RitMotore01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_Ritorno_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_RitornoIndietro_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_ForzatoDarwin_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_AllarmeMotore_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_BloccoMotore_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,092 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_AccesoForzatoPLC_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_SpentoForzatoPLC_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_ZonaAsservimenti_AsservimentiDefault_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_CMD_SemiAuto_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_CMD_InvSemiAuto_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - NO_ID - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - PRED_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - BIL_04 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - AMP_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 - Nessun handler trovato
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - TAMBURO - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - FILTRO - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - <--- MariniImpiantoTree(string filename)
+INFO  2017-05-16 16:16:00,093 [10   ] MariniImpianti.MariniImpiantoTree        - Recupero l'Istanza di MariniImpiantoTree
+INFO  2017-05-16 16:16:28,827 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-16 16:16:28,827 [10   ] MariniImpiantiTester.Program             -           TEST FINISHED
+INFO  2017-05-16 16:16:28,827 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-16 16:21:01,173 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-16 16:21:01,183 [10   ] MariniImpiantiTester.Program             -           TEST STARTED
+INFO  2017-05-16 16:21:01,183 [10   ] MariniImpiantiTester.Program             - ***********************************
+DEBUG 2017-05-16 16:21:01,190 [10   ] MariniImpianti.MariniImpiantoTree        - ---> MariniImpiantoTree(Q:\VARIE\ael\new-project\doc\analisi\impianto.xml)
+DEBUG 2017-05-16 16:21:01,201 [10   ] MariniImpianti.MariniImpiantoTree        - Tento la creazione di MariniImpianto dal file XML: Q:\VARIE\ael\new-project\doc\analisi\impianto.xml
+DEBUG 2017-05-16 16:21:01,206 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: PropertyChangedEventHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:21:01,206 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyDefaultHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:21:01,209 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyImpiantoHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:21:01,209 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO - Trovato handler MyImpiantoHandler
+DEBUG 2017-05-16 16:21:01,211 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyMotoreHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:21:01,215 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyMotoreHandlerCustom - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:21:01,218 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyNastroHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:21:01,222 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: ToString - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:21:01,225 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: Equals - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:21:01,229 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: GetHashCode - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:21:01,233 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: GetType - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:21:01,233 [10   ] MariniImpianti.MariniImpiantoTree        - ZONA_PREDOSAGGIO - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,233 [10   ] MariniImpianti.MariniImpiantoTree        - PRED_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,237 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,241 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,245 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,249 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,254 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,258 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,262 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: ToString - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,267 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: Equals - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,268 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: GetHashCode - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,268 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: GetType - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,268 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 - Nessun handler trovato
+DEBUG 2017-05-16 16:21:01,268 [10   ] MariniImpianti.MariniImpiantoTree        - BIL_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,272 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,276 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,281 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,285 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,288 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,288 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,289 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: ToString - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,289 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: Equals - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,290 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: GetHashCode - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,290 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: GetType - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,290 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:21:01,291 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,292 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,292 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,293 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,294 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,294 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,295 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: ToString - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,295 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: Equals - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,296 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: GetHashCode - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,297 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: GetType - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,297 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:21:01,298 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,298 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,299 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,300 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,300 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,301 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,302 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: ToString - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,303 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: Equals - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,303 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: GetHashCode - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,304 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: GetType - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,304 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:21:01,305 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: PropertyChangedEventHandler - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:21:01,305 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyDefaultHandler - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:21:01,306 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyImpiantoHandler - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:21:01,306 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyMotoreHandler - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:21:01,307 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyMotoreHandlerCustom - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:21:01,308 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyNastroHandler - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:21:01,308 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 - Trovato handler MyNastroHandler
+DEBUG 2017-05-16 16:21:01,308 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: ToString - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:21:01,309 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: Equals - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:21:01,310 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: GetHashCode - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:21:01,310 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: GetType - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:21:01,311 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: PropertyChangedEventHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:21:01,311 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyDefaultHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:21:01,312 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyImpiantoHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:21:01,312 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyMotoreHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:21:01,313 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyMotoreHandlerCustom - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:21:01,313 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 - Trovato handler MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:21:01,313 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyNastroHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:21:01,314 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: ToString - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:21:01,315 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: Equals - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:21:01,315 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: GetHashCode - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: GetType - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - AMP_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - CMD_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - ALRM_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_DI_RitMotore01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_Ritorno_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_RitornoIndietro_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_ForzatoDarwin_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_AllarmeMotore_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_BloccoMotore_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_AccesoForzatoPLC_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_SpentoForzatoPLC_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_ZonaAsservimenti_AsservimentiDefault_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_CMD_SemiAuto_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_CMD_InvSemiAuto_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - NO_ID - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,316 [10   ] MariniImpianti.MariniImpiantoTree        - PRED_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,317 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,317 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,318 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,319 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,320 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,320 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,321 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: ToString - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,322 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: Equals - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,323 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: GetHashCode - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,323 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: GetType - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,323 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 - Nessun handler trovato
+DEBUG 2017-05-16 16:21:01,323 [10   ] MariniImpianti.MariniImpiantoTree        - BIL_04 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,324 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,325 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,325 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,326 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,327 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,329 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,330 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: ToString - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,330 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: Equals - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,333 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: GetHashCode - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,333 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: GetType - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,333 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 - Nessun handler trovato
+DEBUG 2017-05-16 16:21:01,334 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,335 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,335 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,336 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,337 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,337 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,338 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: ToString - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,339 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: Equals - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,340 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: GetHashCode - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,341 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: GetType - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,341 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 - Nessun handler trovato
+DEBUG 2017-05-16 16:21:01,341 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,344 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,345 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,345 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,346 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,347 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,347 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: ToString - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,348 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: Equals - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,348 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: GetHashCode - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,349 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: GetType - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,349 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 - Nessun handler trovato
+DEBUG 2017-05-16 16:21:01,349 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,350 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: PropertyChangedEventHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:21:01,351 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyDefaultHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:21:01,351 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyImpiantoHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:21:01,352 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyMotoreHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:21:01,352 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 - Trovato handler MyMotoreHandler
+DEBUG 2017-05-16 16:21:01,353 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyMotoreHandlerCustom - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:21:01,353 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyNastroHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:21:01,354 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: ToString - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:21:01,355 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: Equals - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:21:01,355 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: GetHashCode - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:21:01,356 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: GetType - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:21:01,356 [10   ] MariniImpianti.MariniImpiantoTree        - AMP_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,357 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,358 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,359 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,360 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,360 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,361 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,362 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: ToString - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,364 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: Equals - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,365 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: GetHashCode - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,367 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: GetType - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,367 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:21:01,368 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,369 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,370 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,370 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,371 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,372 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,373 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: ToString - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,373 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: Equals - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,374 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: GetHashCode - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,375 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: GetType - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,375 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:21:01,376 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,377 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,377 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,378 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,379 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,380 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,384 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: ToString - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,384 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: Equals - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,385 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: GetHashCode - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,386 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: GetType - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:21:01,386 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 - Nessun handler trovato
+DEBUG 2017-05-16 16:21:01,386 [10   ] MariniImpianti.MariniImpiantoTree        - TAMBURO - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,386 [10   ] MariniImpianti.MariniImpiantoTree        - FILTRO - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:21:01,386 [10   ] MariniImpianti.MariniImpiantoTree        - <--- MariniImpiantoTree(string filename)
+INFO  2017-05-16 16:21:01,386 [10   ] MariniImpianti.MariniImpiantoTree        - Recupero l'Istanza di MariniImpiantoTree
+DEBUG 2017-05-16 16:21:01,387 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : name!!!!
+DEBUG 2017-05-16 16:21:01,387 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+DEBUG 2017-05-16 16:21:01,387 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+DEBUG 2017-05-16 16:21:01,388 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandlerCustom, il sender e' MOTORE_01 e la proprieta' e' : description!!!!
+DEBUG 2017-05-16 16:21:01,388 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandlerCustom, il sender e' MOTORE_01 e la proprieta' e' : description!!!!
+INFO  2017-05-16 16:28:03,819 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-16 16:28:03,826 [10   ] MariniImpiantiTester.Program             -           TEST STARTED
+INFO  2017-05-16 16:28:03,826 [10   ] MariniImpiantiTester.Program             - ***********************************
+DEBUG 2017-05-16 16:28:03,830 [10   ] MariniImpianti.MariniImpiantoTree        - ---> MariniImpiantoTree(Q:\VARIE\ael\new-project\doc\analisi\impianto.xml)
+DEBUG 2017-05-16 16:28:03,836 [10   ] MariniImpianti.MariniImpiantoTree        - Tento la creazione di MariniImpianto dal file XML: Q:\VARIE\ael\new-project\doc\analisi\impianto.xml
+DEBUG 2017-05-16 16:28:03,842 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: PropertyChangedEventHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:28:03,843 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyDefaultHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:28:03,846 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyImpiantoHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:28:03,846 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO - Trovato handler MyImpiantoHandler
+DEBUG 2017-05-16 16:28:03,850 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyMotoreHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:28:03,854 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyMotoreHandlerCustom - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:28:03,857 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyNastroHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-05-16 16:28:03,857 [10   ] MariniImpianti.MariniImpiantoTree        - ZONA_PREDOSAGGIO - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,857 [10   ] MariniImpianti.MariniImpiantoTree        - PRED_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,860 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,863 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,865 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,865 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,866 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,868 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,868 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 - Nessun handler trovato
+DEBUG 2017-05-16 16:28:03,868 [10   ] MariniImpianti.MariniImpiantoTree        - BIL_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,870 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,871 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,876 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,880 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,884 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,889 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,889 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:28:03,891 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,892 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,894 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,899 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,903 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,907 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,907 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:28:03,907 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,908 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,909 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,909 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,910 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,910 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,910 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:28:03,911 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: PropertyChangedEventHandler - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:28:03,911 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyDefaultHandler - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:28:03,912 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyImpiantoHandler - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:28:03,913 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyMotoreHandler - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:28:03,913 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyMotoreHandlerCustom - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:28:03,914 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyNastroHandler - handler trovato: MyNastroHandler
+DEBUG 2017-05-16 16:28:03,914 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 - Trovato handler MyNastroHandler
+DEBUG 2017-05-16 16:28:03,915 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: PropertyChangedEventHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:28:03,915 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyDefaultHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:28:03,916 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyImpiantoHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:28:03,916 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyMotoreHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyMotoreHandlerCustom - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 - Trovato handler MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyNastroHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - AMP_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - CMD_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - ALRM_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_DI_RitMotore01 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_Ritorno_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_RitornoIndietro_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_ForzatoDarwin_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_AllarmeMotore_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_BloccoMotore_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_AccesoForzatoPLC_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_SpentoForzatoPLC_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_ZonaAsservimenti_AsservimentiDefault_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_CMD_SemiAuto_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_CMD_InvSemiAuto_1 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - NO_ID - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,917 [10   ] MariniImpianti.MariniImpiantoTree        - PRED_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,918 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,918 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,919 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,920 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,920 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,921 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,921 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 - Nessun handler trovato
+DEBUG 2017-05-16 16:28:03,921 [10   ] MariniImpianti.MariniImpiantoTree        - BIL_04 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,922 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,922 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,923 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,923 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,924 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,924 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,924 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 - Nessun handler trovato
+DEBUG 2017-05-16 16:28:03,925 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,925 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,926 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,926 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,927 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,928 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,928 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 - Nessun handler trovato
+DEBUG 2017-05-16 16:28:03,928 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,929 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,930 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,931 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,931 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,933 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,933 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 - Nessun handler trovato
+DEBUG 2017-05-16 16:28:03,933 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,933 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: PropertyChangedEventHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:28:03,933 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyDefaultHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:28:03,934 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyImpiantoHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:28:03,935 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyMotoreHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:28:03,935 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 - Trovato handler MyMotoreHandler
+DEBUG 2017-05-16 16:28:03,935 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyMotoreHandlerCustom - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:28:03,936 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyNastroHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-05-16 16:28:03,936 [10   ] MariniImpianti.MariniImpiantoTree        - AMP_02 - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,937 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,938 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,938 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,939 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,940 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,940 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,940 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:28:03,941 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,942 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,943 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,943 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,944 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,945 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,945 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 - Nessun handler trovato
+DEBUG 2017-05-16 16:28:03,946 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,948 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,948 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,949 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,953 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,954 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-05-16 16:28:03,954 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 - Nessun handler trovato
+DEBUG 2017-05-16 16:28:03,954 [10   ] MariniImpianti.MariniImpiantoTree        - TAMBURO - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,954 [10   ] MariniImpianti.MariniImpiantoTree        - FILTRO - Nessuna richiesta di handler
+DEBUG 2017-05-16 16:28:03,954 [10   ] MariniImpianti.MariniImpiantoTree        - <--- MariniImpiantoTree(string filename)
+INFO  2017-05-16 16:28:03,954 [10   ] MariniImpianti.MariniImpiantoTree        - Recupero l'Istanza di MariniImpiantoTree
+DEBUG 2017-05-16 16:28:03,955 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : name!!!!
+DEBUG 2017-05-16 16:28:03,955 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+DEBUG 2017-05-16 16:28:03,955 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+DEBUG 2017-05-16 16:28:03,956 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandlerCustom, il sender e' MOTORE_01 e la proprieta' e' : description!!!!
+DEBUG 2017-05-16 16:28:03,956 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandlerCustom, il sender e' MOTORE_01 e la proprieta' e' : description!!!!
+DEBUG 2017-05-16 16:31:39,331 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : name!!!!
+DEBUG 2017-05-16 16:31:39,489 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+INFO  2017-05-16 16:31:40,458 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-05-16 16:31:40,458 [10   ] MariniImpiantiTester.Program             -           TEST FINISHED
+INFO  2017-05-16 16:31:40,458 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-10-05 09:18:49,220 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-10-05 09:18:49,239 [10   ] MariniImpiantiTester.Program             -           TEST STARTED
+INFO  2017-10-05 09:18:49,240 [10   ] MariniImpiantiTester.Program             - ***********************************
+DEBUG 2017-10-05 09:18:49,241 [10   ] MariniImpianti.MariniImpiantoTree        - ---> MariniImpiantoTree(..\..\..\XMLFiles\impianto.xml)
+DEBUG 2017-10-05 09:18:49,242 [10   ] MariniImpianti.MariniImpiantoTree        - Tento la creazione di MariniImpianto dal file XML: ..\..\..\XMLFiles\impianto.xml
+DEBUG 2017-10-05 09:18:49,250 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: PropertyChangedEventHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-10-05 09:18:49,250 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyDefaultHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-10-05 09:18:49,264 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyImpiantoHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-10-05 09:18:49,265 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO - Trovato handler MyImpiantoHandler
+DEBUG 2017-10-05 09:18:49,270 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyMotoreHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-10-05 09:18:49,274 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyMotoreHandlerCustom - handler trovato: MyImpiantoHandler
+DEBUG 2017-10-05 09:18:49,280 [10   ] MariniImpianti.MariniImpiantoTree        - IMPIANTO handler cercato: MyNastroHandler - handler trovato: MyImpiantoHandler
+DEBUG 2017-10-05 09:18:49,280 [10   ] MariniImpianti.MariniImpiantoTree        - ZONA_PREDOSAGGIO - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,280 [10   ] MariniImpianti.MariniImpiantoTree        - PRED_01 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,285 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,291 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,297 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,301 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,302 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,309 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,309 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_01 - Nessun handler trovato
+DEBUG 2017-10-05 09:18:49,309 [10   ] MariniImpianti.MariniImpiantoTree        - BIL_02 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,313 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,318 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,324 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,330 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,334 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,340 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,340 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_02 - Nessun handler trovato
+DEBUG 2017-10-05 09:18:49,345 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,350 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,355 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,360 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,364 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,370 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,370 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_02 - Nessun handler trovato
+DEBUG 2017-10-05 09:18:49,370 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,371 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,371 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,372 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,373 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,373 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,373 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_02 - Nessun handler trovato
+DEBUG 2017-10-05 09:18:49,374 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: PropertyChangedEventHandler - handler trovato: MyNastroHandler
+DEBUG 2017-10-05 09:18:49,375 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyDefaultHandler - handler trovato: MyNastroHandler
+DEBUG 2017-10-05 09:18:49,375 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyImpiantoHandler - handler trovato: MyNastroHandler
+DEBUG 2017-10-05 09:18:49,376 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyMotoreHandler - handler trovato: MyNastroHandler
+DEBUG 2017-10-05 09:18:49,377 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyMotoreHandlerCustom - handler trovato: MyNastroHandler
+DEBUG 2017-10-05 09:18:49,378 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 handler cercato: MyNastroHandler - handler trovato: MyNastroHandler
+DEBUG 2017-10-05 09:18:49,378 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_01 - Trovato handler MyNastroHandler
+DEBUG 2017-10-05 09:18:49,378 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: PropertyChangedEventHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-10-05 09:18:49,379 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyDefaultHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-10-05 09:18:49,380 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyImpiantoHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-10-05 09:18:49,380 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyMotoreHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyMotoreHandlerCustom - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 - Trovato handler MyMotoreHandlerCustom
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_01 handler cercato: MyNastroHandler - handler trovato: MyMotoreHandlerCustom
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - AMP_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - CMD_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - ALRM_MOT_01 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_DI_RitMotore01 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_Ritorno_1 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_RitornoIndietro_1 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_ForzatoDarwin_1 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_AllarmeMotore_1 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_BloccoMotore_1 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_AccesoForzatoPLC_1 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_SpentoForzatoPLC_1 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_ZonaAsservimenti_AsservimentiDefault_1 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_CMD_SemiAuto_1 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - PLCTAG_NM_CMD_InvSemiAuto_1 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,381 [10   ] MariniImpianti.MariniImpiantoTree        - NO_ID - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,382 [10   ] MariniImpianti.MariniImpiantoTree        - PRED_02 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,382 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,383 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,383 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,384 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,385 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,385 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,385 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_003 - Nessun handler trovato
+DEBUG 2017-10-05 09:18:49,385 [10   ] MariniImpianti.MariniImpiantoTree        - BIL_04 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,386 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,387 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,388 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,388 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,389 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,395 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,395 [10   ] MariniImpianti.MariniImpiantoTree        - TEMPO_STAB_04 - Nessun handler trovato
+DEBUG 2017-10-05 09:18:49,396 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,396 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,397 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,397 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,398 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,399 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,399 [10   ] MariniImpianti.MariniImpiantoTree        - TOLLERANZA_04 - Nessun handler trovato
+DEBUG 2017-10-05 09:18:49,400 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,400 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,401 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,402 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,403 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,404 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,404 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_04 - Nessun handler trovato
+DEBUG 2017-10-05 09:18:49,404 [10   ] MariniImpianti.MariniImpiantoTree        - NASTRO_02 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,405 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: PropertyChangedEventHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-10-05 09:18:49,405 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyDefaultHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-10-05 09:18:49,406 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyImpiantoHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-10-05 09:18:49,407 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyMotoreHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-10-05 09:18:49,407 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 - Trovato handler MyMotoreHandler
+DEBUG 2017-10-05 09:18:49,407 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyMotoreHandlerCustom - handler trovato: MyMotoreHandler
+DEBUG 2017-10-05 09:18:49,410 [10   ] MariniImpianti.MariniImpiantoTree        - MOTORE_02 handler cercato: MyNastroHandler - handler trovato: MyMotoreHandler
+DEBUG 2017-10-05 09:18:49,410 [10   ] MariniImpianti.MariniImpiantoTree        - AMP_02 - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,410 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,411 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,413 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,413 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,415 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,415 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,415 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MINIMO_02 - Nessun handler trovato
+DEBUG 2017-10-05 09:18:49,416 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,417 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,418 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,420 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,420 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,422 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,422 [10   ] MariniImpianti.MariniImpiantoTree        - LIMITE_MASSIMO_02 - Nessun handler trovato
+DEBUG 2017-10-05 09:18:49,422 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: PropertyChangedEventHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,423 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyDefaultHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,425 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyImpiantoHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,426 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyMotoreHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,429 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyMotoreHandlerCustom - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,430 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 handler cercato: MyNastroHandler - handler trovato: onPlcTagHandler
+DEBUG 2017-10-05 09:18:49,430 [10   ] MariniImpianti.MariniImpiantoTree        - PRESENTE_005 - Nessun handler trovato
+DEBUG 2017-10-05 09:18:49,430 [10   ] MariniImpianti.MariniImpiantoTree        - TAMBURO - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,430 [10   ] MariniImpianti.MariniImpiantoTree        - FILTRO - Nessuna richiesta di handler
+DEBUG 2017-10-05 09:18:49,430 [10   ] MariniImpianti.MariniImpiantoTree        - <--- MariniImpiantoTree(string filename)
+INFO  2017-10-05 09:18:49,430 [10   ] MariniImpianti.MariniImpiantoTree        - Recupero l'Istanza di MariniImpiantoTree
+DEBUG 2017-10-05 09:18:49,431 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : name!!!!
+DEBUG 2017-10-05 09:18:49,432 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+DEBUG 2017-10-05 09:18:49,432 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+DEBUG 2017-10-05 09:18:49,432 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandlerCustom, il sender e' MOTORE_01 e la proprieta' e' : description!!!!
+DEBUG 2017-10-05 09:18:49,432 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandlerCustom, il sender e' MOTORE_01 e la proprieta' e' : description!!!!
+DEBUG 2017-10-05 09:19:10,758 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : name!!!!
+DEBUG 2017-10-05 09:19:11,165 [10   ] riniImpianti.MariniImpiantoEventHandlers - Sono in MariniImpiantoEventHandlers.MyMotoreHandler, il sender e' MOTORE_02 e la proprieta' e' : description!!!!
+INFO  2017-10-05 09:19:24,741 [10   ] MariniImpiantiTester.Program             - ***********************************
+INFO  2017-10-05 09:19:24,741 [10   ] MariniImpiantiTester.Program             -           TEST FINISHED
+INFO  2017-10-05 09:19:24,741 [10   ] MariniImpiantiTester.Program             - ***********************************

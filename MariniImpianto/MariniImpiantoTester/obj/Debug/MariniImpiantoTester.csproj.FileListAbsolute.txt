@@ -1,0 +1,8 @@
+E:\AeL\GIT_Projects\oms\MariniImpianto\MariniImpiantoTester\bin\Debug\MariniImpiantoTester.exe.config
+E:\AeL\GIT_Projects\oms\MariniImpianto\MariniImpiantoTester\bin\Debug\MariniImpiantoTester.exe
+E:\AeL\GIT_Projects\oms\MariniImpianto\MariniImpiantoTester\bin\Debug\MariniImpiantoTester.pdb
+E:\AeL\GIT_Projects\oms\MariniImpianto\MariniImpiantoTester\bin\Debug\MariniImpianto.dll
+E:\AeL\GIT_Projects\oms\MariniImpianto\MariniImpiantoTester\bin\Debug\MariniImpianto.pdb
+E:\AeL\GIT_Projects\oms\MariniImpianto\MariniImpiantoTester\obj\Debug\MariniImpiantoTester.csprojResolveAssemblyReference.cache
+E:\AeL\GIT_Projects\oms\MariniImpianto\MariniImpiantoTester\obj\Debug\MariniImpiantoTester.exe
+E:\AeL\GIT_Projects\oms\MariniImpianto\MariniImpiantoTester\obj\Debug\MariniImpiantoTester.pdb

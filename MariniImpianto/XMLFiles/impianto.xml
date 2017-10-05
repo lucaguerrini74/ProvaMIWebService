@@ -1,0 +1,117 @@
+<!--
+
+
+PLCTAG_NM_Ritorno_1
+PLCTAG_NM_RitornoIndietro_1
+PLCTAG_NM_CMD_SemiAuto_1
+PLCTAG_NM_CMD_InvSemiAuto_1
+PLCTAG_NM_ForzatoDarwin_1
+PLCTAG_NM_AllarmeMotore_1
+PLCTAG_NM_BloccoMotore_1
+PLCTAG_NM_Sequenze_ListaAvvCompleta_1
+PLCTAG_NM_Sequenze_ListaSpegnimento_1
+PLCTAG_NM_ZonaAsservimenti_AsservimentiDefault_1
+PLCTAG_NM_AccesoForzatoPLC_1
+PLCTAG_NM_SpentoForzatoPLC_1
+
+PLCTAG_NM_PRED_RICFUT_Inerte_Set1
+PLCTAG_NM_PRED_RICFUT_Ricic_Set1
+PLCTAG_NM_NC1
+PLCTAG_NM_IN_BIT_BASSA_TEMP_BIT1
+PLCTAG_NM_IN_BIT_PES_BITUME1
+PLCTAG_NM_FILLER_ElevatoreF2SuF1
+PLCTAG_NM_FILLER_ModTopTowerF1
+PLCTAG_NM_FILLER_EvacSiloFiller1
+PLCTAG_NM_OUT_Blocca_Scar_F1
+PLCTAG_NM_IN_START_BRUC1
+PLCTAG_NM_IN_START_RID_BRUC1
+PLCTAG_NM_IN_START_STOPBRUC1
+
+
+
+            .presente = String2Bool(ParameterPlus.GetParameterValue(SEZIONE, "Motore" + CStr(motore), "", "Presente"))
+            .asservimento = String2Int(ParameterPlus.GetParameterValue(SEZIONE, "Motore" + CStr(motore), "", "Asservimento"))
+            .tempoStart = String2Int(ParameterPlus.GetParameterValue(SEZIONE, "Motore" + CStr(motore), "", "tempoStart"))
+
+-->
+<impianto id="IMPIANTO" name="Impianto di test" type="CYBER500" handler="MyImpiantoHandler">
+    <zona id="ZONA_PREDOSAGGIO" name="Predosaggio">
+        <predosatore id="PRED_01" name="PREDOSATORE 1" Active="true">
+            <plctag id="PRESENTE_01" type="PRESENCE_TAG" tagid="PLCTAG_BIL_PNET_Viatop2_Presenza"  handler="onPlcTagHandler" />
+			<bilancia id="BIL_02" name="BILANCIA PREDOSATORE 2" type="SYWAREX_T1" Active="true">
+                <plctag id="TEMPO_STAB_02" type="TEMPO_STAB" tagid="PLCTAG_GEST_FUMI_TAMB_Riscalatura_mod_fumi" handler="onPlcTagHandler" />
+                <plctag id="TOLLERANZA_02" type="TOLLERANZA" tagid="PLCTAG_SLIT_MOTORE8_Soglia2Slittamento"  handler="onPlcTagHandler" />
+                <plctag id="PRESENTE_02" type="PRESENCE_TAG" tagid="PLCTAG_ContalitriRitardoScaricoForzatura"  handler="onPlcTagHandler" />
+            </bilancia>
+            <nastro id="NASTRO_01" name="NASTRO PREDOSATORE 1" handler="MyNastroHandler">
+                <motore id="MOTORE_01" name="MOTORE PREDOSATORE 1" handler="MyMotoreHandlerCustom">
+                    <amperometro id="AMP_MOT_01" name="AMPEROMETRO MOTORE 1" presente="1" >
+                    </amperometro>
+                    <comando id="CMD_MOT_01" name="COMANDI MOTORE 1">
+                    </comando>
+                    <allarmi id="ALRM_MOT_01" name="ALLARMI MOTORE 1">
+                    </allarmi>
+
+                    <plctag id="PLCTAG_DI_RitMotore01"                             IO_type="R" type="bool" tagid="PLCTAG_DI_RitMotore01"                           />
+                    <plctag id="PLCTAG_NM_Ritorno_1"                               IO_type="R" type="bool" tagid="PLCTAG_NM_Ritorno_1"                             />
+                    <plctag id="PLCTAG_NM_RitornoIndietro_1"                       IO_type="R" type="bool" tagid="PLCTAG_NM_RitornoIndietro_1"                     />
+                    <plctag id="PLCTAG_NM_ForzatoDarwin_1"                         IO_type="R" type="bool" tagid="PLCTAG_NM_ForzatoDarwin_1"                       />
+                    <plctag id="PLCTAG_NM_AllarmeMotore_1"                         IO_type="R" type="int" tagid="PLCTAG_NM_AllarmeMotore_1"                       />
+                    <plctag id="PLCTAG_NM_BloccoMotore_1"                          IO_type="R" type="bool" tagid="PLCTAG_NM_BloccoMotore_1"                        />
+                    <plctag id="PLCTAG_NM_AccesoForzatoPLC_1"                      IO_type="R" type="bool" tagid="PLCTAG_NM_AccesoForzatoPLC_1"                    />
+                    <plctag id="PLCTAG_NM_SpentoForzatoPLC_1"                      IO_type="R" type="bool" tagid="PLCTAG_NM_SpentoForzatoPLC_1"                    />
+
+                    <plctag id="PLCTAG_NM_ZonaAsservimenti_AsservimentiDefault_1"  IO_type="W" type="int"  tagid="PLCTAG_NM_ZonaAsservimenti_AsservimentiDefault_1"/>
+                    <plctag id="PLCTAG_NM_CMD_SemiAuto_1"                          IO_type="W" type="bool" tagid="PLCTAG_NM_CMD_SemiAuto_1"                        />
+                    <plctag id="PLCTAG_NM_CMD_InvSemiAuto_1"                       IO_type="W" type="bool" tagid="PLCTAG_NM_CMD_InvSemiAuto_1"                     />
+
+<!--
+                    <parameters>
+                       <parameter name="Presente" paragraph="Motore12"/>
+                       <parameter name="Asservimento" paragraph="Motore12"/>
+                    </parameters>
+				
+                  .presente = String2Bool(ParameterPlus.GetParameterValue(SEZIONE, "Motore" + CStr(motore), "", "Presente"))
+                  .asservimento = String2Int(ParameterPlus.GetParameterValue(SEZIONE, "Motore" + CStr(motore), "", "Asservimento"))
+                  .tempoStart = String2Int(ParameterPlus.GetParameterValue(SEZIONE, "Motore" + CStr(motore), "", "tempoStart"))
+
+                  Call SetMotoreRitorno(indice + 1, .items(PLCTAG_NM_Ritorno_1 + indice).Value)
+                  Call SetMotoreRitornoReale(indice + 1, .items(PLCTAG_DI_RitMotore01 + (indice * SpreadMotori)).Value)
+                  Call SetMotoreRitornoIndietro(indice + 1, .items(PLCTAG_NM_RitornoIndietro_1 + indice).Value)
+                  Call SetMotoreAllarme(indice + 1, .items(PLCTAG_NM_AllarmeMotore_1 + indice).Value)
+                  Call SetMotoreBlocco(indice + 1, .items(PLCTAG_NM_BloccoMotore_1 + indice).Value)
+                  Call SetMotoreForzatoAcceso(indice + 1, .items(PLCTAG_NM_AccesoForzatoPLC_1 + indice).Value)
+                  Call SetMotoreForzatoSpento(indice + 1, .items(PLCTAG_NM_SpentoForzatoPLC_1 + indice).Value)
+                  Call SetMotoreForzatoDarwin(indice + 1, .items(PLCTAG_NM_ForzatoDarwin_1 + indice).Value)
+-->
+
+
+
+
+                </motore>
+            </nastro>
+        </predosatore>
+        <predosatore id="PRED_02" name="PREDOSATORE 2" Active="false"	>
+            <plctag id="PRESENTE_003" type="PRESENCE_TAG" tagid="PLCTAG_All_Filler_FineCorsaGenerico"  handler="onPlcTagHandler"/>
+            <bilancia id="BIL_04" name="BILANCIA PREDOSATORE 2" type="SYWAREX_T1" >
+                <plctag id="TEMPO_STAB_04" type="TEMPO_STAB" tagid="PLCTAG_GravitaPercRiduzionePrimaPesata"  handler="onPlcTagHandler" />
+                <plctag id="TOLLERANZA_04" type="TOLLERANZA" tagid="PLCTAG_DI_CompressoreBruciatore2_PressioneInsufficiente"  handler="onPlcTagHandler" />
+                <plctag id="PRESENTE_04" type="PRESENCE_TAG" tagid="PLCTAG_DI_AltaPressione_PompaCombustibile" handler="onPlcTagHandler" />
+            </bilancia>
+            <nastro id="NASTRO_02" name="NASTRO PREDOSATORE 2">
+                <motore id="MOTORE_02" name="MOTORE PREDOSATORE 2" description="motore_02_descr" handler="MyMotoreHandler">
+                    <amperometro id="AMP_02" name="AMPEROMETRO MOTORE 2" presente="1"> 
+                        <plctag id="LIMITE_MINIMO_02" type="MIN_LIMIT_MOTORE_TAG" tagid="PLCTAG_AI_RitPredosatore5" handler="onPlcTagHandler" />
+                        <plctag id="LIMITE_MASSIMO_02" type="MAX_LIMIT_MOTORE_TAG" tagid="PLCTAG_NM_CMD_SemiAuto_1" handler="onPlcTagHandler" />
+                        <plctag id="PRESENTE_005" type="PRESENCE_TAG" tagid="PLCTAG_NM_MOTORE2_PRESENTE" handler="onPlcTagHandler" parent_property_bind="presente" />
+                    </amperometro>
+                </motore>
+            </nastro>
+        </predosatore>
+    </zona>
+    <zona id="TAMBURO" name="Tamburo">
+    </zona>
+    <zona id="FILTRO" name="Filtro">
+    </zona>
+</impianto>
+

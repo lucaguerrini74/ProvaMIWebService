@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MariniImpianto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="IMPIANTO" name="Buhuhuhuhhu" path="/IMPIANTO" description="NO_DESCRIPTION" handler="MyImpiantoHandler">
+  <zona id="ZONA_PREDOSAGGIO" name="Predosaggio" path="/IMPIANTO/ZONA_PREDOSAGGIO" description="NO_DESCRIPTION" handler="NO_HANDLER">
+    <predosatore id="PRED_01" name="PREDOSATORE 1" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01" description="NO_DESCRIPTION" handler="NO_HANDLER">
+      <plctag id="PRESENTE_01" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/PRESENTE_01" description="NO_DESCRIPTION" handler="onPlcTagHandler" tagid="PLCTAG_BIL_PNET_Viatop2_Presenza" />
+      <bilancia id="BIL_02" name="BILANCIA PREDOSATORE 2" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/BIL_02" description="NO_DESCRIPTION" handler="NO_HANDLER">
+        <plctag id="TEMPO_STAB_02" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/BIL_02/TEMPO_STAB_02" description="NO_DESCRIPTION" handler="onPlcTagHandler" tagid="PLCTAG_GEST_FUMI_TAMB_Riscalatura_mod_fumi" />
+        <plctag id="TOLLERANZA_02" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/BIL_02/TOLLERANZA_02" description="NO_DESCRIPTION" handler="onPlcTagHandler" tagid="PLCTAG_SLIT_MOTORE8_Soglia2Slittamento" />
+        <plctag id="PRESENTE_02" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/BIL_02/PRESENTE_02" description="NO_DESCRIPTION" handler="onPlcTagHandler" tagid="PLCTAG_ContalitriRitardoScaricoForzatura" />
+      </bilancia>
+      <nastro id="NASTRO_01" name="NASTRO PREDOSATORE 1" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01" description="NO_DESCRIPTION" handler="MyNastroHandler">
+        <motore id="MOTORE_01" name="MOTORE PREDOSATORE 1" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01" description="NUOVISSIMA_descrizione_motore_01" handler="MyMotoreHandlerCustom">
+          <amperometro id="AMP_MOT_01" name="AMPEROMETRO MOTORE 1" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/AMP_MOT_01" description="NO_DESCRIPTION" handler="NO_HANDLER" presente="1" />
+          <oggettobase id="CMD_MOT_01" name="COMANDI MOTORE 1" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/CMD_MOT_01" description="NO_DESCRIPTION" handler="NO_HANDLER" />
+          <oggettobase id="ALRM_MOT_01" name="ALLARMI MOTORE 1" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/ALRM_MOT_01" description="NO_DESCRIPTION" handler="NO_HANDLER" />
+          <plctag id="PLCTAG_DI_RitMotore01" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/PLCTAG_DI_RitMotore01" description="NO_DESCRIPTION" handler="NO_HANDLER" tagid="PLCTAG_DI_RitMotore01" />
+          <plctag id="PLCTAG_NM_Ritorno_1" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/PLCTAG_NM_Ritorno_1" description="NO_DESCRIPTION" handler="NO_HANDLER" tagid="PLCTAG_NM_Ritorno_1" />
+          <plctag id="PLCTAG_NM_RitornoIndietro_1" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/PLCTAG_NM_RitornoIndietro_1" description="NO_DESCRIPTION" handler="NO_HANDLER" tagid="PLCTAG_NM_RitornoIndietro_1" />
+          <plctag id="PLCTAG_NM_ForzatoDarwin_1" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/PLCTAG_NM_ForzatoDarwin_1" description="NO_DESCRIPTION" handler="NO_HANDLER" tagid="PLCTAG_NM_ForzatoDarwin_1" />
+          <plctag id="PLCTAG_NM_AllarmeMotore_1" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/PLCTAG_NM_AllarmeMotore_1" description="NO_DESCRIPTION" handler="NO_HANDLER" tagid="PLCTAG_NM_AllarmeMotore_1" />
+          <plctag id="PLCTAG_NM_BloccoMotore_1" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/PLCTAG_NM_BloccoMotore_1" description="NO_DESCRIPTION" handler="NO_HANDLER" tagid="PLCTAG_NM_BloccoMotore_1" />
+          <plctag id="PLCTAG_NM_AccesoForzatoPLC_1" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/PLCTAG_NM_AccesoForzatoPLC_1" description="NO_DESCRIPTION" handler="NO_HANDLER" tagid="PLCTAG_NM_AccesoForzatoPLC_1" />
+          <plctag id="PLCTAG_NM_SpentoForzatoPLC_1" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/PLCTAG_NM_SpentoForzatoPLC_1" description="NO_DESCRIPTION" handler="NO_HANDLER" tagid="PLCTAG_NM_SpentoForzatoPLC_1" />
+          <plctag id="PLCTAG_NM_ZonaAsservimenti_AsservimentiDefault_1" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/PLCTAG_NM_ZonaAsservimenti_AsservimentiDefault_1" description="NO_DESCRIPTION" handler="NO_HANDLER" tagid="PLCTAG_NM_ZonaAsservimenti_AsservimentiDefault_1" />
+          <plctag id="PLCTAG_NM_CMD_SemiAuto_1" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/PLCTAG_NM_CMD_SemiAuto_1" description="NO_DESCRIPTION" handler="NO_HANDLER" tagid="PLCTAG_NM_CMD_SemiAuto_1" />
+          <plctag id="PLCTAG_NM_CMD_InvSemiAuto_1" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/PLCTAG_NM_CMD_InvSemiAuto_1" description="NO_DESCRIPTION" handler="NO_HANDLER" tagid="PLCTAG_NM_CMD_InvSemiAuto_1" />
+          <oggettobase id="NO_ID" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_01/NASTRO_01/MOTORE_01/NO_ID" description="NO_DESCRIPTION" handler="NO_HANDLER" />
+        </motore>
+      </nastro>
+    </predosatore>
+    <predosatore id="PRED_02" name="PREDOSATORE 2" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_02" description="NO_DESCRIPTION" handler="NO_HANDLER">
+      <plctag id="PRESENTE_003" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_02/PRESENTE_003" description="NO_DESCRIPTION" handler="onPlcTagHandler" tagid="PLCTAG_All_Filler_FineCorsaGenerico" />
+      <bilancia id="BIL_04" name="BILANCIA PREDOSATORE 2" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_02/BIL_04" description="NO_DESCRIPTION" handler="NO_HANDLER">
+        <plctag id="TEMPO_STAB_04" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_02/BIL_04/TEMPO_STAB_04" description="NO_DESCRIPTION" handler="onPlcTagHandler" tagid="PLCTAG_GravitaPercRiduzionePrimaPesata" />
+        <plctag id="TOLLERANZA_04" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_02/BIL_04/TOLLERANZA_04" description="NO_DESCRIPTION" handler="onPlcTagHandler" tagid="PLCTAG_DI_CompressoreBruciatore2_PressioneInsufficiente" />
+        <plctag id="PRESENTE_04" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_02/BIL_04/PRESENTE_04" description="NO_DESCRIPTION" handler="onPlcTagHandler" tagid="PLCTAG_DI_AltaPressione_PompaCombustibile" />
+      </bilancia>
+      <nastro id="NASTRO_02" name="NASTRO PREDOSATORE 2" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_02/NASTRO_02" description="NO_DESCRIPTION" handler="NO_HANDLER">
+        <motore id="MOTORE_02" name="MOTORE_02namechanged" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_02/NASTRO_02/MOTORE_02" description="MOTORE_02descrchanged" handler="MyMotoreHandler">
+          <amperometro id="AMP_02" name="AMPEROMETRO MOTORE 2" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_02/NASTRO_02/MOTORE_02/AMP_02" description="NO_DESCRIPTION" handler="NO_HANDLER" presente="1">
+            <plctag id="LIMITE_MINIMO_02" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_02/NASTRO_02/MOTORE_02/AMP_02/LIMITE_MINIMO_02" description="NO_DESCRIPTION" handler="onPlcTagHandler" tagid="PLCTAG_AI_RitPredosatore5" />
+            <plctag id="LIMITE_MASSIMO_02" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_02/NASTRO_02/MOTORE_02/AMP_02/LIMITE_MASSIMO_02" description="NO_DESCRIPTION" handler="onPlcTagHandler" tagid="PLCTAG_NM_CMD_SemiAuto_1" />
+            <plctag id="PRESENTE_005" name="NO_NAME" path="/IMPIANTO/ZONA_PREDOSAGGIO/PRED_02/NASTRO_02/MOTORE_02/AMP_02/PRESENTE_005" description="NO_DESCRIPTION" handler="onPlcTagHandler" tagid="PLCTAG_NM_MOTORE2_PRESENTE" parent_property_bind="presente" />
+          </amperometro>
+        </motore>
+      </nastro>
+    </predosatore>
+  </zona>
+  <zona id="TAMBURO" name="Tamburo" path="/IMPIANTO/TAMBURO" description="NO_DESCRIPTION" handler="NO_HANDLER" />
+  <zona id="FILTRO" name="Filtro" path="/IMPIANTO/FILTRO" description="NO_DESCRIPTION" handler="NO_HANDLER" />
+</MariniImpianto>
